@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159364115645",
+    "project_id": "my-happy-note",
+    "storage_bucket": "my-happy-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159364115645:android:ea039b429e4a6d3ab71bd4",
+        "android_client_info": {
+          "package_name": "com.dsmannk.myhappynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159364115645-3q70ffu36g4mk79l6quhs8grra5u33us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsmannk.myhappynote",
+            "certificate_hash": "2ae98ef19987010e9276c8cbb552cb2d94f1a87a"
+          }
+        },
+        {
+          "client_id": "159364115645-59c4b7onrm9bbh7ul6b3fhsl4lbvk4r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoCyE38O-1l_sZVllBsMVR6MNZ7T8Cro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159364115645-59c4b7onrm9bbh7ul6b3fhsl4lbvk4r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
